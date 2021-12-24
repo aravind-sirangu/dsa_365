@@ -14,7 +14,8 @@ class Permutations {
 	            return;
 	        }
 	  
-	        for (int i = 0; i < str.length(); i++) {
+	        for (int i = 0; i < str.length(); i++) 
+	        {
 	  
 	            // ith character of str
 	            char ch = str.charAt(i);
