@@ -1,5 +1,7 @@
 package com.Arrays;
 
+// Max diff arr[j]-arr[i] such that i>j
+
 class MAxDiffwithOrder {
 	public static void main(String[] args) {
 //		int[] arr = {2,3,10,6,4,8,1};
