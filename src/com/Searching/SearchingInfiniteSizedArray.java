@@ -12,7 +12,7 @@ class SearchingInfiniteSizedArray {
 		while(arr[i]<x) {
 			i= i*2;
 		}
-		return binarySearch(arr, i, i/2, x);
+		return binarySearch(arr, i-1, (i/2)+1, x);
 		
 	}
 	
