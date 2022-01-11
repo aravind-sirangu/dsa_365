@@ -3,7 +3,7 @@ package com.Searching;
 class MinimumPages {
 	public static void main(String[] args) {
 		int[] arr = {10,20,30,10};
-		System.out.println(minPages(arr, 2));
+		System.out.println(minPages(arr, 3));
 	}
 	
 	static int minPages(int[] arr, int k) {
