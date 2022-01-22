@@ -3,7 +3,7 @@ package com.Sorting;
 class KthSmallest {
 	public static void main(String[] args) {
 		int [] arr = {6,7,8,3,1,4,2,9,4};
-		System.out.println(kthsmall(arr, 1, 0, 8));
+		System.out.println(kthsmall(arr, 2, 0, 8));
 	}
 	
 	
